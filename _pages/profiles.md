@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /organizers/
+title: organizers
+description: Organizers
 nav: true
 nav_order: 7
 
@@ -10,19 +10,18 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: https://soc.cit.tum.de/img/miriam.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      Miriam
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: https://user.phil.hhu.de/~stodden/ReginaStodden.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      Regina
+  - align: right
+    image: https://avatars.githubusercontent.com/u/22526154?v=4
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      Thorben
 ---

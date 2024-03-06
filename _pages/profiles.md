@@ -10,18 +10,18 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: https://soc.cit.tum.de/img/miriam.jpg
+    image: miriam.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      Miriam
+      Miriam from TU Munich
   - align: left
-    image: https://user.phil.hhu.de/~stodden/ReginaStodden.jpg
+    image: regina.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      Regina
+      Regina from HHU Duesseldorf
   - align: right
-    image: https://avatars.githubusercontent.com/u/22526154?v=4
+    image: thorben.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      Thorben
+      Thorben from HAW Hamburg
 ---

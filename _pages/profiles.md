@@ -21,6 +21,7 @@ profiles:
       Regina from HHU Duesseldorf
   - align: right
     image: thorben.jpg
+    orcid_id: 0009-0002-3577-341X
     image_circular: false # crops the image to make it circular
     more_info: >
       Thorben from HAW Hamburg

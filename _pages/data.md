@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-The basis of the task will be a data set comprising several thousand entries. This data set will be made public in several stages (see start page). Starting with the trial dataset, which is already available at [data/trial.csv](https://github.com/german-easy-to-read/statements/blob/master/data/trial-data.csv). The trial dataset gives participants an early opportunity to familiarize themselves with the structure and possible processing of the data. We also welcome any feedback and are happy to answer questions by e-mail. 
+The basis of the task will be a dataset consisting of several thousand entries. This dataset will be made public in several stages (see start page). Starting with the trial dataset, which is already available at [data/trial.csv](https://github.com/german-easy-to-read/statements/blob/master/data/trial.csv). The trial dataset gives participants an early opportunity to familiarize themselves with the structure and possible ways of processing the data. We also welcome any feedback and are happy to answer questions via e-mail. 
 
 ---
 Our data structure:

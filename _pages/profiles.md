@@ -4,25 +4,33 @@ permalink: /organizers/
 title: organizers
 description: Organizers
 nav: true
-nav_order: 7
+nav_order: 20
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
+  - align: left
     image: miriam.jpg
-    image_circular: false # crops the image to make it circular
+    url: 
     more_info: >
-      Miriam from TU Munich
+      <div> 
+      Miriam Anschütz <br>
+      TU Munich <br>
+      <a href="https://soc.cit.tum.de/persons/miriam-anschuetz">https://soc.cit.tum.de/persons/miriam-anschuetz</a>
+      </div>
   - align: left
     image: regina.jpg
-    image_circular: false # crops the image to make it circular
     more_info: >
-      Regina from HHU Duesseldorf
-  - align: right
+      <div> 
+      Regina Stodden <br>
+      HHU Duesseldorf <br>
+      <a href="https://user.phil.hhu.de/~stodden">https://user.phil.hhu.de/~stodden</a> <br>
+      <a href="https://orcid.org/0000-0002-7470-0961"> ORCID:0000-0002-7470-0961</a>
+      </div>
+  - align: left
     image: thorben.jpg
-    orcid_id: 0009-0002-3577-341X
-    image_circular: false # crops the image to make it circular
     more_info: >
-      Thorben from HAW Hamburg
+      <div> 
+      Thorben Schomacker <br>
+      HAW Hamburg <br>
+      <a href="https://orcid.org/0009-0002-3577-341X"> ORCID:0009-0002-3577-341X </a>
+      </div>
 ---

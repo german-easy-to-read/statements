@@ -47,7 +47,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -111,7 +111,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Feel free to reach out to us via E-Mail. Please note, that your E-Mail could anonymized and used in FAQ. If do not want your request appear in the FAQ, please state it explicately.
+  Feel free to reach out to us via E-Mail. Please note, that your E-Mail could be anonymized and used in a FAQ-list. If you do not want your request to appear in the FAQ, please state it explicitly.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

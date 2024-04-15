@@ -7,7 +7,11 @@ nav: true
 nav_order: 10
 ---
 
-The basis of the task will be a dataset consisting of several thousand entries. This dataset will be made public in several stages (see start page). Starting with the trial dataset, which is already available at [data/trial.csv](https://github.com/german-easy-to-read/statements/blob/master/data/trial.csv). The trial dataset gives participants an early opportunity to familiarize themselves with the structure and possible ways of processing the data. We also welcome any feedback and are happy to answer questions via e-mail. 
+The basis of the task will be a dataset consisting of several thousand entries. This dataset will be made public in several stages (see start page). Starting with the trial dataset, which is already available at [data/trial.csv](https://github.com/german-easy-to-read/statements/blob/master/data/trial.csv). The trial dataset gives participants an early opportunity to familiarize themselves with the structure and possible ways of processing the data. We also welcome any feedback and are happy to answer questions via e-mail.  
+
+---
+
+We have started to upload the training data. It is available at [data/train.csv](https://github.com/german-easy-to-read/statements/blob/master/data/train.csv) and will be uploaded iteratively until the evaluation period starts. Be sure to check out the latest version the achieve the best results possible. Please notice, that we have included sentences with `0` statements, which means that those sentences are incomplete or erroneous. In this case, even sentences with multiple statements can be annotated by `0`. Nonetheless, we left them in the data to create a real world experiences.  
 
 ---
 Our data structure:
@@ -32,8 +36,8 @@ Our data structure:
 Here is an example of how to process the data in python using pandas:
 
 {::nomarkdown}
-{% assign jupyter_path = "assets/jupyter/trial.ipynb" | relative_url %}
-{% capture notebook_exists %}{% file_exists assets/jupyter/trial.ipynb %}{% endcapture %}
+{% assign jupyter_path = "assets/jupyter/data.ipynb" | relative_url %}
+{% capture notebook_exists %}{% file_exists assets/jupyter/data.ipynb %}{% endcapture %}
 {% if notebook_exists == "true" %}
 {% jupyter_notebook jupyter_path %}
 {% else %}

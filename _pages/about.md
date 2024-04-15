@@ -26,15 +26,15 @@ Our aim is to analyze and evaluate existing German Easy language texts. We do no
 
 We are looking forward to an interesting workshop at KONVENS 2024. Please see the timetable or contact us for more information:
 
-|             |                      |
-|-------------|----------------------|
-|09.03.2024 - | Trial data ready     | 
-|14.04.2024 - | Train data ready     |
-|18.05.2024 - | Test data ready      |
-|13.06.2024 - | Evaluation start     | 
-|25.06.2024 - | Evaluation end       |
-|01.07.2024 - | Paper submission due | 
-|20.07.2024 - | Camera ready due     |
-|13.09.2024 - | Workshop date        |
+|             |                      |                                                                                                |
+|-------------|----------------------|----------------------------------------------------------------------------------------------- |
+|09.03.2024 - | Trial data ready     | [data/trial.csv](https://github.com/german-easy-to-read/statements/blob/master/data/trial.csv) |
+|14.04.2024 - | Train data ready     | [data/train.csv](https://github.com/german-easy-to-read/statements/blob/master/data/train.csv) |
+|18.05.2024 - | Test data ready      | |
+|13.06.2024 - | Evaluation start     | | 
+|25.06.2024 - | Evaluation end       | |
+|01.07.2024 - | Paper submission due | | 
+|20.07.2024 - | Camera ready due     | |
+|13.09.2024 - | Workshop date        | |
 
 ---

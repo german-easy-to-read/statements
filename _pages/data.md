@@ -1,9 +1,9 @@
 ---
 layout: default
 permalink: /data/
-title: data
-description: data
-nav: true
+title: dataset
+description: dataset
+nav: false
 nav_order: 10
 ---
 

@@ -8,7 +8,7 @@ nav_order: 15
 ---
 
 # Submission 
-All paper submissions must use the official [KONVENS 2024](https://konvens-2024.univie.ac.at/calls/call-for-papers) style templates. We accept three kinds of submission:
+All paper submissions must be formatted according to [KONVENS 2024 guidelines](https://konvens-2024.univie.ac.at/calls/call-for-papers). We accept three kinds of submissions:
 
 - Long papers must not exceed eight (8) pages of content. 
 - Short papers and demonstration papers must not exceed four (4) pages of content.
@@ -18,7 +18,7 @@ References do not count against these limits. Supplementary material does not co
 
 
 # Submission  Form
-We strongly encourage authors to use LaTeX in preparing their documents. 
+We strongly encourage authors to use LaTeX to prepare their documents. 
 
 
 # Reviewing

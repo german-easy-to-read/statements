@@ -19,6 +19,12 @@ Example:
 `"Das Glas steht heute Abend auf dem Tisch." (engl.: "The glass is on the table tonight.", literally: "the glass stands today evening on the table.") (Local adverbial: auf dem Tisch; temporal adverbial: heute Abend). `
 In this example, the local adverbial is obligatory because `"stehen" (eng: "standing")` requires a place. The temporal adverbial is not obligatory and thus forms a new statement. Therefore, this example contains two statements.
 
+The shared task comprises two subtasks:  
+**Subtask 1: Detemining the number of statements**  
+In the first subtask, the number of statements in the sentences should be predicted. The target is a whole number.  
+**Subtask 2: Annotating the statement spans**  
+In this subtask, the spans of the previously identified statements will be extracted. For details about the annotation and statement extraction, see our [annotation guidelines](https://german-easy-to-read.github.io/statements/annotations/). 
+
 Our aim is to analyze and evaluate existing German Easy language texts. We do not want to enforce the use of one-statement sentences but merely analyze the density of statements. One target group is German Easy language authors who can check their own texts automatically. These annotations can also serve as a data basis for machine learning applications in the field of readability analysis and fact checking.
 
 

@@ -43,10 +43,4 @@ We are looking forward to an interesting workshop at KONVENS 2024. Please see th
 |20.07.2024 - | Camera ready due     | |
 |13.09.2024 - | Workshop date        | |
 
----
 
-## FAQ
-
-**Q: How did you annotate your data?**
-
-**A:** We tried to describe our process in detail in our [Annotation Guidelines](https://german-easy-to-read.github.io/statements/annotations)

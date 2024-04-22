@@ -8,6 +8,8 @@ nav_order: 15
 ---
 
 # Submission 
+We welcome all technological solutions. To foster scientific reproducibility we encourage you to use open source and data solutions whenever possible.  
+
 All paper submissions must be formatted according to [KONVENS 2024 guidelines](https://konvens-2024.univie.ac.at/calls/call-for-papers). We accept three kinds of submissions:
 
 - Long papers must not exceed eight (8) pages of content. 

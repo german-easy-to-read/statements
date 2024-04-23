@@ -33,6 +33,7 @@ There are only a few different semantic categories of coordinating conjunctions 
 |causal |denn (umgangssprachlich: weil)|Er ist glücklich, denn er wird bald heiraten.|
 |koncessive |wenn auch, wenngleich (+ Adj.)|Es ist ein trauriger, wenn auch ein aufschlussreicher Tag.|
 |comparative |als, wie|Er mag sein Auto lieber als seine Frau.|
+
 > <a name="table1"></a> **Table 1**: List of the semantic categories of German coordinating conjunctions \
 > Source:[Wikipedia:Konjunktion](https://de.wikipedia.org/wiki/Konjunktion_(Wortart))
 
@@ -47,12 +48,15 @@ Nouns are often further described by adjectives. If these adjectives give additi
 
 If multiple adjectives/adverbs are concatenated into a sequence, each of them forms a single statement. 
 Examples:
+
 |Sentence|Number of statements|Explanation|
 |---|---|---|
 |Die moderne Sportart heißt: \newline Splashdiving.|2|`modern` gives additional information about the sport|
 |Der Vorschlag wurde ohne Gegenstimmen angenommen.|2|Modal adverbial `ohne Gegenstimmen`|
 |Die Einwohner konnten ihre Lebensmittel ganz normal kaufen.|1|`ganz normal` gives no restrictions|
 |Die Mitarbeiter reparieren gemeinsam kaputte Dinge.|2|Sequence: Die Mitarbeiter reparieren gemeinsam. Die Mitarbeiter reparieren kaputte Dinge.|
+
+
 ##### Special case: Quantifiers
 Quantifiers like `viele, alle, mache` or counts like `50 Menschen` are no separate statements.
 

@@ -24,13 +24,25 @@ hr {
 }
 
 table {
-  td,
+  td{
+    padding: 12px;
+    border-right:1px solid gray;
+  }
+  td:last-of-type {
+    border: none;
+  }
   th {
     font-size: 1rem;
   }
 
   th {
     font-weight: bold;
+  }
+  tr {
+    border-bottom:1px solid gray;
+  }
+  tr:last-of-type {
+    border: none;
   }
 }
 

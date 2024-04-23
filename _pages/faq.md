@@ -15,5 +15,5 @@ nav_order: 20
 ## Why do you split sentences like `Eine Angel ist eine Schnur mit einem Haken` into two statements?
   Our statements focus mostly on chunks of information that need to be understood by the readers. From a content perspective, a fishing rod always consists of a string and a hook, so splitting these into two statements makes no sense. However, the reader still has to parse two separate statements independently: 1) there is a string, and 2) there is a hook. Therefore, we decided to split the sentence into two statements.
 
-## How did you annotate your data?**
+## How did you annotate your data?
   We tried to describe our process in detail in our [Annotation Guidelines](https://german-easy-to-read.github.io/statements/annotations)

@@ -33,6 +33,7 @@ There are only a few different semantic categories of coordinating conjunctions 
 |causal |denn (umgangssprachlich: weil)|Er ist glücklich, denn er wird bald heiraten.|
 |koncessive |wenn auch, wenngleich (+ Adj.)|Es ist ein trauriger, wenn auch ein aufschlussreicher Tag.|
 |comparative |als, wie|Er mag sein Auto lieber als seine Frau.|
+
 > <a name="table1"></a> **Table 1**: List of the semantic categories of German coordinating conjunctions \
 > Source:[Wikipedia:Konjunktion](https://de.wikipedia.org/wiki/Konjunktion_(Wortart))
 
@@ -46,13 +47,14 @@ Information in parentheses is always a separate statement.
 Nouns are often further described by adjectives. If these adjectives give additional information or restrict the noun to a subgroup, these adjectives form a separate statement. In the example below, the adjective `modern` gives additional information about the sport, so it is extracted as a new statement. In contrast, if the adjective/adverb gives no further restrictions, it is not counted as a separate statement.
 
 If multiple adjectives/adverbs are concatenated into a sequence, each of them forms a single statement. 
-Examples:
+Examples:  
 |Sentence|Number of statements|Explanation|
 |---|---|---|
 |Die moderne Sportart heißt: \newline Splashdiving.|2|`modern` gives additional information about the sport|
 |Der Vorschlag wurde ohne Gegenstimmen angenommen.|2|Modal adverbial `ohne Gegenstimmen`|
 |Die Einwohner konnten ihre Lebensmittel ganz normal kaufen.|1|`ganz normal` gives no restrictions|
 |Die Mitarbeiter reparieren gemeinsam kaputte Dinge.|2|Sequence: Die Mitarbeiter reparieren gemeinsam. Die Mitarbeiter reparieren kaputte Dinge.|
+
 ##### Special case: Quantifiers
 Quantifiers like `viele, alle, mache` or counts like `50 Menschen` are no separate statements.
 

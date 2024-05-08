@@ -63,6 +63,9 @@ Quantifiers like `viele, alle, mache` or counts like `50 Menschen` are no separa
 ##### Special case: Filler words
 Filler words like `sehr`, `oft`, `darum`, or `auch` are no separate statements.
 
+##### Special case: Comparatives and superlatives
+Comparatives and superlatives in constructions like `größte Stadt` or `weniger Menschen` are closely connected to their noun and, thus, form no separate statement.
+
 #### 3. Separating via prepositional phrase
 Prepositional often specify things and actions, e.g., by indicating ownership (`von ..`), a direction (`nach ..`), or modality (`mit ..`). Similar to adjectives, this additional information forms a new statement. For example, the sentence `Man kann mit einem Fahr-stuhl nach oben fahren.` contains the prepositional phrases `mit einem Fahrstuhl` and `nach oben`, thus containing two statements. If multiple prepositional phrases are stacked after another, each of them forms a separate statement.
 

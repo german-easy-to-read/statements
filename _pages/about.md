@@ -8,7 +8,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-This workshop is a GermEval-task and will be co-located with [KONVENS 2024](https://konvens-2024.univie.ac.at/). We welcome contributions in English (preferred) and German. Prior to submitting a contribution, we kindly ask every participant / participating team to register via our [form](https://docs.google.com/forms/d/e/1FAIpQLSeD7W4jvrw0PKufz44NA4KgP-cSlHCl5hofBtvBoR30oc4krg/viewform?usp=sf_link)
+This workshop is a GermEval-task and will be co-located with [KONVENS 2024](https://konvens-2024.univie.ac.at/). We welcome contributions in English (preferred) and German. Submissions can tackle one or two of the sub tasks, deciding for only one sub task has no effect on the acceptance of the submission. Prior to submitting a contribution, we kindly ask every participant / participating team to register via our [form](https://docs.google.com/forms/d/e/1FAIpQLSeD7W4jvrw0PKufz44NA4KgP-cSlHCl5hofBtvBoR30oc4krg/viewform?usp=sf_link), this helps us to more effectively organize the event.
 
 ---
 
@@ -34,8 +34,8 @@ We are looking forward to an interesting workshop at KONVENS 2024. Please see th
 
 |           |                      |                                                                                                |
 |-----------|----------------------|----------------------------------------------------------------------------------------------- |
-|09.03.24 | Trial data ready     | [data/trial.csv](https://github.com/german-easy-to-read/statements/blob/master/data/trial.csv) |
-|14.04.24 | Train data ready (last update 08.05.24     | [data/train.csv](https://github.com/german-easy-to-read/statements/blob/master/data/train.csv) |
+|09.03.24 | Trial data ready       | [data/trial.csv](https://github.com/german-easy-to-read/statements/blob/master/data/trial.csv) |
+|14.04.24 | Train data ready (final update 14.05.24) | [data/train.csv](https://github.com/german-easy-to-read/statements/blob/master/data/train.csv) |
 |18.05.24 | Test data ready      | |
 |13.06.24 | Evaluation start     | | 
 |25.06.24 | Evaluation end       | |

@@ -36,7 +36,7 @@ We are looking forward to an interesting workshop at KONVENS 2024. Please see th
 |-----------|----------------------|----------------------------------------------------------------------------------------------- |
 |09.03.24 | Trial data ready       | [data/trial.csv](https://github.com/german-easy-to-read/statements/blob/master/data/trial.csv) |
 |14.04.24 | Train data ready (final update 14.05.24) | [data/train.csv](https://github.com/german-easy-to-read/statements/blob/master/data/train.csv) |
-|18.05.24 | Test data ready      | |
+|18.05.24 | Test data ready      | [data/test.csv](https://github.com/german-easy-to-read/statements/blob/master/data/test.csv) |
 |13.06.24 | Evaluation start     | | 
 |25.06.24 | Evaluation end       | |
 |01.07.24 | Paper submission due | | 

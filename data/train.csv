@@ -1,4 +1,4 @@
-sent-id,topic,phrase,phrase_number,genre,timestamp,user,phrase_tokenized,num_statements,statement_spans 
+sent-id,topic,phrase,phrase_number,genre,timestamp,user,phrase_tokenized,num_statements,statement_spans
 989,alchemie,Eine sehr bekannte Alchemisten war Maria die Jüdin.,2_long,Wissenschaft|Seiten_mit_defekten_Dateilinks,2022-10-03T06:15:06Z,48f66906899cc4a9477b6c9e32ff4424,0:=Eine 1:=sehr 2:=bekannte 3:=Alchemisten 4:=war 5:=Maria 6:=die 7:=Jüdin.,1,
 990,alchemie,Alchemisten wollen etwas ver-bessern.,3_long,Wissenschaft|Seiten_mit_defekten_Dateilinks,2022-10-03T06:15:06Z,48f66906899cc4a9477b6c9e32ff4424,0:=Alchemisten 1:=wollen 2:=etwas 3:=ver-bessern.,1,
 991,alchemie,"Zum Beispiel, \newline wollen sie kranke Menschen gesund machen.",4_long,Wissenschaft|Seiten_mit_defekten_Dateilinks,2022-10-03T06:15:06Z,48f66906899cc4a9477b6c9e32ff4424,"0:=Zum 1:=Beispiel, 2:=\newline 3:=wollen 4:=sie 5:=kranke 6:=Menschen 7:=gesund 8:=machen.",2,"[[3, 4], [5, 6, 7, 8]]"

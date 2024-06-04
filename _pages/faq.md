@@ -17,3 +17,6 @@ nav_order: 20
 
 ## How did you annotate your data?
   We tried to describe our process in detail in our [Annotation Guidelines](https://german-easy-to-read.github.io/statements/annotations)
+
+## Why are there empty tokens? Can we delete them?
+  The data from the Hurraki homepage is quite noisy. We decided to keep the noise to reflect upon noisy real-world data. These empty tokens are not annotated in the statement spans. So, you can, of course, remove them in your (pre-)processing. However, make sure that the span annotations still use the original numbering.

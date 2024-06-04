@@ -1,4 +1,4 @@
-sent-id,topic,phrase,phrase_number,genre,timestamp,user,phrase_tokenized,num_statements,statement_spans 
+sent-id,topic,phrase,phrase_number,genre,timestamp,user,phrase_tokenized,num_statements,statement_spans
 29217,louis-braille,Louis Braille wurde am 4. Januar 1809 geboren.,0_long,Personen|Seiten_mit_defekten_Dateilinks,2017-01-05T18:57:57Z,28d34f2e053dee2c0e9399a7924cd978,0:=Louis 1:=Braille 2:=wurde 3:=am 4:=4. 5:=Januar 6:=1809 7:=geboren.,1,
 29218,louis-braille,"Das war in Coupvray, Frankreich.",1_long,Personen|Seiten_mit_defekten_Dateilinks,2017-01-05T18:57:57Z,28d34f2e053dee2c0e9399a7924cd978,"0:=Das 1:=war 2:=in 3:=Coupvray, 4:=Frankreich.",2,"[[3], [4]]"
 29219,louis-braille,Er ist am 6. Januar 1852 gestorben.,2_long,Personen|Seiten_mit_defekten_Dateilinks,2017-01-05T18:57:57Z,28d34f2e053dee2c0e9399a7924cd978,0:=Er 1:=ist 2:=am 3:=6. 4:=Januar 5:=1852 6:=gestorben.,1,

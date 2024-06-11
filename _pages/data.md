@@ -14,7 +14,7 @@ The basis of the task will be a dataset consisting of several thousand entries. 
 We have started to upload the training data. It is available at [data/train.csv](https://github.com/german-easy-to-read/statements/blob/master/data/train.csv) and will be uploaded iteratively until the evaluation period starts. Be sure to check out the latest version the achieve the best results possible. Please notice, that we have included sentences with `0` statements, which means that those sentences are incomplete or erroneous. In this case, even sentences with multiple statements can be annotated by `0`. Nonetheless, we left them in the data to create a real world experiences.  
 
 ---
-Our data structure:
+## Our data structure:
 
 |Column name | Description | Example value |
 |---|---|---|
@@ -31,7 +31,7 @@ Our data structure:
 
 ---
 
-
+## Example: 
 
 Here is an example of how to process the data in python using pandas:
 
@@ -45,3 +45,9 @@ Here is an example of how to process the data in python using pandas:
 <p>Sorry, the notebook you are looking for does not exist.</p>
 {% endif %}
 {:/nomarkdown}
+
+
+## Content notice for sensitive content
+This dataset contains descriptions of violence, death, abuse and discrimination. We are including this content, because we randomly selected articles from the source site as a whole without applying any content-aware filtering, in order to maintain a neutral perspective on the data and avoid any cherry-picking. Since we are not the authors of the articles, we do not take responsibility for the content. The chances of success of submissions from participants are independent of the content of the sentences, but are based solely on linguistic and statistical evaluations. 
+
+This notice follows the ideas describe in this [article from Stanford]( https://tlhub.stanford.edu/docs/writing-content-notices-for-sensitive-content)

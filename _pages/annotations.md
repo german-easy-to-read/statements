@@ -83,7 +83,7 @@ There can be samples that don't contain a statement, e.g., if there are problems
 ## Annotating the statement spans
 We enumerate the tokens in the sentence to simplify referring to them in the statement span annotations. The statement spans are only annotated for samples with more than 1 statement. In this case, we annotate the tokens that belong to the different spans as a set of statements spans:
 * The order of the spans and the order of tokens within the spans is not important and can be altered.
-* Articles, coordinating conjunctions, and `\newline` are never included in the spans. In contrast, subordinating conjunctions, relative pronouns, or [filler words](special-case-filler-words) are included.
+* Articles, coordinating conjunctions, and `\newline` are never included in the spans. In contrast, subordinating conjunctions, relative pronouns, or [filler words](#special-case-filler-words) are included.
 * Only the mutually exclusive parts are annotated, i.e., tokens that are contained in all statements are not annotated.
 
 |Sentence|Number of statements|Statement spans|Explanation|

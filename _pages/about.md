@@ -37,10 +37,9 @@ We are looking forward to an interesting workshop at KONVENS 2024. Please see th
 |09.03.24 | Trial data ready       | [data/trial.csv](https://github.com/german-easy-to-read/statements/blob/master/data/trial.csv) |
 |14.04.24 | Train data ready (final update 14.05.24, bug fixes 04.06.2024) | [data/train.csv](https://github.com/german-easy-to-read/statements/blob/master/data/train.csv) |
 |18.05.24 | Test data ready      | [data/test.csv](https://github.com/german-easy-to-read/statements/blob/master/data/test.csv) |
-|13.06.24 | Evaluation start     | | 
-|25.06.24 | Evaluation end       | |
+|17.06.24 | Evaluation 1st phase: Development (test data)     | please submit via [CodaBench](https://www.codabench.org/competitions/3244) | 
+|28.06.24 | Evaluation 2nd phase: Final (eval data)       |please submit via [CodaBench](https://www.codabench.org/competitions/3244) |
+|12.07.24 | Evaluation end (last submissions possible)       | please submit via [CodaBench](https://www.codabench.org/competitions/3244)|
 |01.07.24 | Paper submission due | | 
-|20.07.24 | Camera ready due     | |
+|02.08.24 | Camera ready due     | |
 |13.09.24 | Workshop date        | |
-
-

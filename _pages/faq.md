@@ -9,6 +9,13 @@ nav_order: 20
 
 # Frequently asked questions
 
+
+## Can I only participate in Subtask 1 (Identifying Number of Statements)?
+Yes, you can participate in both subtasks or only in Subtask 1. If you only want to participate in Subtask 1, please add an empty statement_spans column to your prediction file. In this case, the statement spans will be considered as null.
+
+## Can I only participate in Subtask 2 (Identifying Segments of Statements)?
+No, Subtask 2 is dependent on Subtask 1. You cannot only participate in Subtask 2. But, it is possible to submit your results only to Subtask 1.
+
 ## What tools are allowed to solve the task?
   All technological solutions are welcome. To foster scientific reproducibility, we encourage you to use open-source software and data solutions whenever possible. Nevertheless, we don't prohibit using any tool, software, or model.
 

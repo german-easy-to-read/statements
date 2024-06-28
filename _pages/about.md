@@ -40,6 +40,7 @@ We are looking forward to an interesting workshop at KONVENS 2024. Please see th
 |17.06.24 | Evaluation 1st phase: Development (test data)     | please submit via [CodaBench](https://www.codabench.org/competitions/3244) | 
 |28.06.24 | Evaluation 2nd phase: Final (eval data)       |please submit via [CodaBench](https://www.codabench.org/competitions/3244) |
 |12.07.24 | Evaluation end (last submissions possible)       | please submit via [CodaBench](https://www.codabench.org/competitions/3244)|
-|01.07.24 | Paper submission due | | 
+|12.07.24 | Paper submission due | | 
+|26.07.24 | Acceptance notification | |
 |02.08.24 | Camera ready due     | |
 |13.09.24 | Workshop date        | |

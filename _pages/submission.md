@@ -18,6 +18,7 @@ All paper submissions must be formatted according to [KONVENS 2024 guidelines](h
 
 References do not count against these limits. Supplementary material does not count towards the page limit and should be included in the appendix.
 
+Please submit your papers directly to the organizer's email at [statements@soc.cit.tum.de](mailto:statements@soc.cit.tum.de).
 
 ## Submission Form
 We strongly encourage authors to use LaTeX to prepare their documents. 

@@ -29,13 +29,18 @@ Our aim is to analyze and evaluate existing German Easy language texts. We do no
 
 
 ---
+
+
 ## Workshop program
+Our workshop will happen on 13. September 2024 in Währingerstraße 29, 1090 Vienna:
+
+
 |   |   |
 |---|---|
 |10:00 – 10:15 | Opening |
 |10:15 – 11:15 | **Keynote by Christina Niklaus from University of St. Gallen** |
 | 11:15 – 11:35 | Overview of the GermEval 2024 Shared Task on Statement Segmentation in German Easy Language (StaGE) |
-| 11:35 – 11:55 | KlarTextCoders at StaGE: Automatic Statement Annotations for German Easy Language
+| 11:35 – 11:55 | KlarTextCoders at StaGE: Automatic Statement Annotations for German Easy Language | 
 | 11:55 – 12:15 | Statement Segmentation for German Easy Language Using BERT and Dependency Parsing |
 | 12:15 – 12:45 | Brainstorming for possible next (shared) tasks |
 | 12:45 – 13:00 | Closing & group photo |

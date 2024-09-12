@@ -10,8 +10,8 @@ In this example, the local adverbial is obligatory because `"stehen" (eng: "stan
 Our aim is to analyze and evaluate existing German Easy language texts. We do not want to enforce the use of one-statement sentences but merely analyze the density of statements. One target group is German Easy language authors who can check their own texts automatically. These annotations can also serve as a data basis for machine learning applications in the field of readability analysis and fact checking.
 
 ## License
+The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).
+
+The draft proceedings are available at [draft.pdf](./draft.pdf) and licensed as stated by [ACL](https://aclanthology.org/faq/copyright/): *to the general public under a liberal usage policy that allows unlimited reproduction, distribution and hosting of materials on any other website or medium, for non-commercial purposes.*
 
 Everything else falls under [CC BY-SA 3.0 DEED](https://creativecommons.org/licenses/by-sa/3.0)
-
-
-The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).

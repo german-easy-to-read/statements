@@ -8,7 +8,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-This workshop is a GermEval-task and will be co-located with [KONVENS 2024](https://konvens-2024.univie.ac.at/). We welcome contributions in English (preferred) and German. Submissions can tackle one or two of the sub tasks, deciding for only one sub task has no effect on the acceptance of the submission. Prior to submitting a contribution, we kindly ask every participant / participating team to register via our [form](https://docs.google.com/forms/d/e/1FAIpQLSeD7W4jvrw0PKufz44NA4KgP-cSlHCl5hofBtvBoR30oc4krg/viewform?usp=sf_link), this helps us to more effectively organize the event.
+The draft proceedings have now been uploaded: [draft.pdf](./draft.pdf). Until the proceedings have been uploaded, please contact the organizers, to get the preliminary citation information.
 
 ---
 
@@ -32,20 +32,20 @@ Our aim is to analyze and evaluate existing German Easy language texts. We do no
 
 
 ## Workshop program
-Our workshop will happen on 13. September 2024 in Währingerstraße 29, 1090 Vienna:
+Our workshop will happen on 13. September 2024 in Währingerstraße 29, 1090 Vienna in SR 3 and online via [Zoom](https://tum-conf.zoom-x.de/j/67242838790?pwd=TJaGlJDg93cHdaOwCsUsNQRqKPhIWb.1). If you join via Zoom, please use your real name.  
 
 
 |   |   |
 |---|---|
-|10:00 – 10:15 | Opening |
-|10:15 – 11:15 | **Keynote by Christina Niklaus from University of St. Gallen** |
-| 11:15 – 11:35 | Overview of the GermEval 2024 Shared Task on Statement Segmentation in German Easy Language (StaGE) |
-| 11:35 – 11:55 | KlarTextCoders at StaGE: Automatic Statement Annotations for German Easy Language | 
-| 11:55 – 12:15 | Statement Segmentation for German Easy Language Using BERT and Dependency Parsing |
-| 12:15 – 12:45 | Brainstorming for possible next (shared) tasks |
-| 12:45 – 13:00 | Closing & group photo |
-| 13:00 – 15:00 | Lunch |
-
+|10:00&#x2011;10:15 | Opening |
+|10:15&#x2011;11:15 | **Keynote by Christina Niklaus from University of St. Gallen** |
+| :coffee:	 | Coffee break |
+| 11:15&#x2011;11:35 | Overview of the GermEval 2024 Shared Task on Statement Segmentation in German Easy Language (StaGE) |
+| 11:35&#x2011;11:55 | KlarTextCoders at StaGE: Automatic Statement Annotations for German Easy Language | 
+| 11:55&#x2011;12:15 | Statement Segmentation for German Easy Language Using BERT and Dependency Parsing |
+| 12:15&#x2011;12:45 | Brainstorming for possible next (shared) tasks |
+| 12:45&#x2011;13:00 | Closing & group photo |
+| 13:00&#x2011;15:00 | Lunch |
 
 
 

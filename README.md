@@ -15,3 +15,27 @@ The theme is available as open source under the terms of the [MIT License](https
 The draft proceedings are available at [draft.pdf](./draft.pdf) and licensed as stated by [ACL](https://aclanthology.org/faq/copyright/): *to the general public under a liberal usage policy that allows unlimited reproduction, distribution and hosting of materials on any other website or medium, for non-commercial purposes.*
 
 Everything else falls under [CC BY-SA 3.0 DEED](https://creativecommons.org/licenses/by-sa/3.0)
+
+## Cite Us
+```tex
+@inproceedings{schomacker-etal-2024-overview,
+    title = "Overview of the {G}erm{E}val 2024 Shared Task on Statement Segmentation in {G}erman Easy Language ({S}ta{GE})",
+    author = {Schomacker, Thorben  and
+      Ansch{\"u}tz, Miriam  and
+      Stodden, Regina  and
+      Groh, Georg  and
+      Tropmann-Frick, Marina},
+    editor = {Schomacker, Thorben  and
+      Ansch{\"u}tz, Miriam  and
+      Stodden, Regina},
+    booktitle = "Proceedings of GermEval 2024 Shared Task on Statement Segmentation in German Easy Language (StaGE)",
+    month = sep,
+    year = "2024",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Lingustics",
+    url = "https://aclanthology.org/2024.germeval-1.1",
+    pages = "1--14",
+}
+```
+
+The complete proceedings of the Shared Task are available at: [https://aclanthology.org/volumes/2024.germeval-1/](https://aclanthology.org/volumes/2024.germeval-1/)

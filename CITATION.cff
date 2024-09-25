@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+title: Overview of the GermEval 2024 Shared Task on Statement Segmentation in German Easy Language (StaGE)
+version: 1.0.0
+url: https://aclanthology.org/2024.germeval-1.1
+date-released: '2024-09-25'
+preferred-citation:
+  authors:
+    - family-names: Schomacker
+      given-names: Thorben
+    - family-names: Anschütz
+      given-names: Miriam
+    - family-names: Stodden
+      given-names: Regina
+    - family-names: Groh
+      given-names: Georg
+    - family-names: "Tropmann-Frick"
+      given-names: Marina
+  title: Overview of the GermEval 2024 Shared Task on Statement Segmentation in German Easy Language (StaGE)
+  url: https://aclanthology.org/2024.germeval-1.1
+  type: conference-paper
+  pages: 1--14
+  year: '2024'
+  collection-title: Proceedings of GermEval 2024 Shared Task on Statement Segmentation in German Easy Language (StaGE)
+  conference: {Proceedings of the 20th Conference on Natural Language Processing (KONVENS 2024)}
+  publisher:
+    name: Association for Computational Lingustics
+    address: Vienna, Austria

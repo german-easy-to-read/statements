@@ -8,7 +8,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-The draft proceedings have now been uploaded: [draft.pdf](./draft.pdf). Until the proceedings have been uploaded, please contact the organizers, to get the preliminary citation information.
+The proceedings are officially published: [https://aclanthology.org/volumes/2024.germeval-1/](https://aclanthology.org/volumes/2024.germeval-1/).
 
 ---
 
